@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/RealAliSaid?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRealAliSaid&screen_name=RealAliSaid)
 
-## Coputer Science student, Designer, Developer, 3D-Modeling!!
+## Computer Science student, Designer, Developer, 3D-Modeling
 
 - 🔴 Learning Python and Javascript
 - 🔴 Currently working on a 3D-Modeling Project and Discord Bot
