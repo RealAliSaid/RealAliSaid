@@ -1,6 +1,6 @@
 ### Hey everyone! My name is Ali. Also known as [ALISKING] 💯
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRealAliSaid&screen_name=RealAliSaid)
+[![Twitter Follow](https://img.shields.io/twitter/follow/RealAliSaid?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRealAliSaid&screen_name=RealAliSaid)
 
 ## Computer Science Student
 
@@ -10,6 +10,7 @@
 -🔴Facts about me: Love to code, design, sports, spend time with my family
 
 ### Spotify Playing 🎧
+
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Ali Said Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
