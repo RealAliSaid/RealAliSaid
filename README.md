@@ -32,6 +32,7 @@
 
 [<img align="left" alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/ALISKING/Images/main/android-studio.png?token=ANWRTQBKXS5SCXRVM4AJ6F3A4RRZO" />][twitter]
 
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/ALISKING/Images/main/768px-Python-logo-notext.svg.png?token=ANWRTQAPOHB3LLT7NZXLEODA4RSZW" />][twitter]
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][twitter]
 
