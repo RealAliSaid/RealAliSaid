@@ -4,7 +4,7 @@
 
 ## Computer Science student, Designer, Developer, 3D-Modeling
 
-- 🔴 Learning Python and Javascript
+- 🔴 Learning Python, Javascript and improving java
 - 🔴 Currently working on a 3D-Modeling Project and Discord Bot
 - 🔴 2021 Goals: Contribute more on Github
 - 🔴 About me: I like to code, Design, make 3D models, sports, spend time with my family
