@@ -17,7 +17,7 @@
 [<img align="left" alt="RealAlisaid | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 
-#### Discord: Ali Said#6485
+### Discord: Ali Said#6485
 
 <br />
 
