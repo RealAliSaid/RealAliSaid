@@ -10,9 +10,7 @@
 - 🔴 About me: I like to code, Design, make 3D models, sports, spend time with my family
 - 🔴 Linkedin account coming soon....
 
-### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/blue-line-11?si=c1bad74d548a4362)
 
 ### Connect with me: (More coming soon...)
 
