@@ -11,7 +11,6 @@
 - 🔴 Linkedin account coming soon....
 
 
-
 ### Connect with me: (More coming soon...)
 
 
