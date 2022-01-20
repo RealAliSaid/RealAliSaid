@@ -10,21 +10,11 @@
 - 🔴 About me: I like to code, Design, make 3D models, sports, spend time with my family
 - 🔴 Linkedin account coming soon....
 
-
 ### Connect with me: (More coming soon...)
-
 
 [<img align="left" alt="RealAlisaid | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-
-
-
-<br />
-
-### Discord: Ali Said#6485
-<br />
 ### Languages and Tools:
-
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][twitter]
 
 [<img align="left" alt="Houdini" width="26px" src="https://raw.githubusercontent.com/ALISKING/Images-for-Github-Bio/main/Houdini3D_icon.png" />][houdini]
