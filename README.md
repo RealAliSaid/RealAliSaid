@@ -4,11 +4,12 @@
 #### Follow me! 
 [![Twitter Follow](https://img.shields.io/twitter/follow/RealAliSaid?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRealAliSaid&screen_name=RealAliSaid)
 
-## Computer Science, Designer, Developer, Discord Bot Creator
+## Current Projects:
 
 - #### ⚪ Learning Javascript and Figma(for UI & UX)
-- #### ⚪ Currently working on a Discord Bot
+- #### ⚪ Discord Bot
 - #### ⚪ 2022 Goals: Finish studies
+- #### ⚪ Developing a BeatX Music Player
 
 
 
