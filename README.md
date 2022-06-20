@@ -9,7 +9,7 @@
 - #### ⚪ Learning Javascript and Figma(for UI & UX)
 - #### ⚪ Discord Bot
 - #### ⚪ 2022 Goals: Finish studies
-- #### ⚪ Developing a BeatX Music Player
+- #### ⚪ Creating NFTs
 
 
 
