@@ -2,8 +2,8 @@
 #### I'm a 23 year old Computer Science student in 📍Germany.  I like to code (mainly in Javascript/ Node.js, HTML and CSS)💻, Design User Interfaces📱, sometimes create 3D models🔨, do lots of sports⚽🏀💪, and of course I love to spend time with my family💯
 
 #### Follow me! 
-[![Twitter Follow](https://img.shields.io/twitter/follow/RealAliSaid?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRealAliSaid&screen_name=RealAliSaid)
-[![Twitter Follow](https://img.shields.io/twitter/follow/RealBirdyBird?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRealBirdyBird&screen_name=RealBirdyBird)
+[![Twitter Follow](https://img.shields.io/twitter/follow/OfficialAliSaid?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FOfficialAliSaid&screen_name=OfficialAliSaid)
+
 ## Current Projects:
 
 - #### ⚪ Learning Javascript and Figma(for UI & UX)
