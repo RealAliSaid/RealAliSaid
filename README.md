@@ -7,9 +7,9 @@
 ## Current Projects:
 
 - #### ⚪ Learning Javascript and Figma(for UI & UX)
-- #### ⚪ Discord Bot
-- #### ⚪ 2022 Goals: Finish studies
-- #### ⚪ Creating NFTs
+- #### ⚪ Creating Websites
+- #### ⚪ 2023 Goals: Finish studies
+- #### ⚪ Creating User Interfaces/ Wireframes
 
 
 
