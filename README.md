@@ -5,7 +5,6 @@
 
 - #### ⚪ Learning Javascript and Figma(for UI & UX)
 - #### ⚪ Creating Websites
-- #### ⚪ 2023 Goals: Finish studies
 - #### ⚪ Creating User Interfaces/ Wireframes
 
 
