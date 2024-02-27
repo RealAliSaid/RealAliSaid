@@ -1,11 +1,24 @@
-### Hey! I'm Ali Said. 👋
-#### I'm a 23 year old Computer Science student in 📍Germany.  I like to code (mainly in Javascript/ Node.js, HTML and CSS)💻, Design User Interfaces📱, sometimes create 3D models🔨, do lots of sports⚽🏀💪, and of course I love to spend time with my family💯
+# Ali Said
 
-## Current Projects:
+## About Me
 
-- #### ⚪ Learning Javascript and Figma(for UI & UX)
-- #### ⚪ Creating Websites
-- #### ⚪ Creating User Interfaces/ Wireframes
+Hey there! I'm Ali Said, a 24-year-old Web Developer based in 📍Germany. I'm passionate about crafting exceptional user interfaces and experiences.
+
+- 💻 Proficient in JavaScript/Node.js, HTML, and CSS
+- 🎨 Skilled in designing captivating user interfaces
+- 🌟 Always eager to learn and explore new technologies
+- ⚽ Enjoy staying active through sports and spending quality time with family
+
+## Current Focus
+
+Here's what I'm currently focusing on:
+
+- 🔍 Mastering JavaScript and Figma for UI & UX design
+- 🌐 Developing engaging websites with cutting-edge technologies
+- 🎨 Crafting stunning user interfaces and wireframes for various projects
+
+Feel free to connect with me and explore my projects! Let's create something amazing together. 🚀
+
 
 
 
